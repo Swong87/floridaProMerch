@@ -1,0 +1,25 @@
+2018-09-19 04:17:45 43 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+2018-09-19 04:17:45 43 [Note] Plugin 'FEDERATED' is disabled.
+2018-09-19 04:17:45 43 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2018-09-19 04:17:45 43 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-09-19 04:17:45 43 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2018-09-19 04:17:45 43 [Note] InnoDB: Memory barrier is not used
+2018-09-19 04:17:45 43 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-09-19 04:17:45 43 [Note] InnoDB: Using Linux native AIO
+2018-09-19 04:17:45 43 [Note] InnoDB: Using CPU crc32 instructions
+2018-09-19 04:17:45 43 [Note] InnoDB: Initializing buffer pool, size = 32.0M
+2018-09-19 04:17:45 43 [Note] InnoDB: Completed initialization of buffer pool
+2018-09-19 04:17:45 43 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-09-19 04:17:45 43 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-09-19 04:17:45 43 [Note] InnoDB: Waiting for purge to start
+2018-09-19 04:17:45 43 [Note] InnoDB: 5.6.37 started; log sequence number 23000882
+2018-09-19 04:17:45 43 [Note] Server hostname (bind-address): '*'; port: 3306
+2018-09-19 04:17:45 43 [Note] IPv6 is available.
+2018-09-19 04:17:45 43 [Note]   - '::' resolves to '::';
+2018-09-19 04:17:45 43 [Note] Server socket created on IP: '::'.
+2018-09-19 04:17:45 43 [Warning] 'user' entry 'root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-09-19 04:17:45 43 [Warning] 'user' entry '@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-09-19 04:17:45 43 [Warning] 'proxies_priv' entry '@ root@e24d0b5cccc1' ignored in --skip-name-resolve mode.
+2018-09-19 04:17:45 43 [Note] Event Scheduler: Loaded 0 events
+2018-09-19 04:17:45 43 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.6.37'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  MySQL Community Server (GPL)

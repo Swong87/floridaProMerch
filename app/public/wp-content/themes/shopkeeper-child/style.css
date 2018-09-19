@@ -1,0 +1,346 @@
+/*
+Theme Name: Shopkeeper Child
+Theme URI: http://shopkeeper.getbowtied.com/
+Description: This is a child theme for Shopkeeper.
+Author: Get Bowtied
+Author URI: http: //www.getbowtied.com/
+Template: shopkeeper
+Version: 1.0
+*/
+
+@import url("../shopkeeper/style.css");
+
+/****************************************************************/
+/*************** ADD YOUR CUSTOM CSS IN THIS AREA ***************/
+/****************************************************************/
+
+
+
+
+
+
+#masthead {
+    background-color: #226677;
+    position: relative;
+}
+.menu-item a {
+    color: white !important;
+}
+.site-tools span {
+    color: white;
+}
+.site-branding a {
+    position: absolute;
+    top: -10px;
+    left: 0;
+    width: 100px;
+    transform: translate(0);
+}
+.site-logo {
+    height: auto !important;
+}
+.sticky-logo {
+    max-height: unset;
+}
+.main-navigation {
+    margin-left: 100px;
+}
+.top-headers-wrapper {
+    overflow: visible !important;
+}
+.footer__linklist {
+    margin: 0;
+}
+input.wpcf7-form-control {
+    margin: auto;
+}
+input.wpcf7-submit {
+    width: auto;
+}
+.parking-body {
+    font-size: 18px;
+    text-align: center;
+    color: #226678;
+    max-width: 75%;
+    margin: 0 auto;
+    font-weight: 500
+}
+.league--title {
+    background-image: url(/wp-content/uploads/2017/11/surf-green-bg.jpg);
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 280px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.league--title h1,
+.league--title h2 {
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    color: #FFF;
+    font-family: Etna;
+}
+.travel__header {
+    background-image: url('/wp-content/uploads/2018/08/Florida Pro Surf Hero_Travel.jpg')
+}
+@media (max-width:415px) {
+    .travel__header {
+        background-position: -584px 0!important
+    }
+}
+.header-bg {
+    height: 45vw;
+    min-height: 700px;
+    max-height: 1000px;
+    background-position: center bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+@media (max-width:1350px) {
+    .header-bg {
+        height: 700px
+    }
+}
+@media (max-width:800px) {
+    .header-bg {
+        height: 500px
+    }
+}
+@media (max-width:500px) {
+    .header-bg {
+        height: 400px
+    }
+}
+@media (max-width:415px) {
+    .header-bg {
+        height: 625px
+    }
+}
+.sticky {
+    background: #226677 !important;
+}
+.sticky_header {
+    padding: 0 !important;
+}
+.shopping_bag_items_number {
+    color: white !important;
+}
+.surf-footer {
+    height: 628px;
+    background-image: url(/wp-content/uploads/2017/11/footer-bg.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.footer--wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    padding-top: 200px
+}
+
+@media (max-width:800px) {
+    .footer--wrapper {
+        padding-top: 180px;
+        position: relative
+    }
+}
+
+.footer--inner {
+    width: 100%;
+    padding: 0 5%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start
+}
+
+@media (max-width:800px) {
+    .footer--inner {
+        flex-wrap: wrap;
+        height: 800px;
+        position: absolute;
+        top: 180px;
+        background-color: #226678;
+        padding: 0 2.5%
+    }
+}
+
+.footer--logo img {
+    height: 215px
+}
+
+@media (max-width:800px) {
+    .footer--logo {
+        width: 100%;
+        text-align: center
+    }
+    .footer--logo img {
+        height: 180px
+    }
+    .footer--links h3 {
+        text-align: center
+    }
+}
+
+@media (max-width:500px) {
+    .footer--logo img {
+        height: 150px
+    }
+}
+
+.footer--links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between
+}
+
+.footer--links h3 {
+    width: 100%;
+    color: #FFF;
+    margin-bottom: 30px
+}
+
+@media (max-width:800px) {
+    .footer--links {
+        width: 100%;
+        justify-content: center
+    }
+    .footer--links .first-linklist {
+        margin-right: 50px
+    }
+    .footer--newsletter input {
+        max-width: 300px
+    }
+}
+
+.footer__linklist {
+    list-style-type: none;
+    color: #FFF
+}
+
+.footer__linklist li {
+    margin: 10px 0
+}
+
+.footer__linklist li a {
+    color: #FFF
+}
+
+.footer--insta {
+    margin-left: 15px
+}
+
+.footer--newsletter {
+    max-width: 300px
+}
+
+.footer--newsletter h3 {
+    color: #FFF;
+    width: 100%;
+    margin-bottom: 20px
+}
+
+.footer--newsletter input {
+    border-radius: 8px!important
+}
+
+.footer--newsletter label {
+    color: #FFF
+}
+
+.footer--newsletter .wpcf7-text {
+    padding: 10px!important
+}
+
+.footer--newsletter .wpcf7-submit {
+    background-color: #e8bf08!important
+}
+.surf__body {
+    margin-bottom: 50px
+}
+
+@media (max-width:800px) {
+    .surf__body--home {
+        margin-top: -180px;
+        margin-bottom: 20px
+    }
+}
+.max-width {
+    max-width: 1300px;
+    margin: 0 auto
+}
+input::placeholder {
+    color: #333;
+}
+#donateBtnContainer {
+    text-align: center;
+}
+#donateBtnContainer div {
+    width: 100% !important;
+}
+#shop-title {
+    position: relative;
+    width: fit-content;
+    margin: auto;
+    color: #226677;
+    text-transform: uppercase;
+    font-size: 40px;
+    letter-spacing: 5px;
+    font-family: Etna;
+}
+#shop-title:after, #shop-title:before {
+    content:"\A";
+    position: absolute;
+    top: 50%;
+    transform: translate(0,-50%);
+    width:10px;
+    height:10px;
+    border-radius:50%;
+    background: #226678;
+    display:inline-block;
+}
+#shop-title:after {
+    right: -20px;
+}
+#shop-title:before {
+    left: -20px;
+}
+.amount {
+    color: #226677;
+}
+.product_layout_classic section.related h2, .product_layout_classic section.up-sells h2 {
+    color: #226677;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 30px auto;
+    font-size: 30px !important;
+}
+.cart button.add_to_cart_button {
+    background: url("/wp-content/2018/11/surf-league-bg-mobile.png") no-repeat scroll 0 0 !important;
+    cursor: pointer;
+    font-weight: bold;
+    height: 20px;
+    padding-bottom: 2px;
+    width: 75px;
+}
+.product_layout_classic .product_content_wrapper {
+    margin-top: 0;
+}
+.content-area {
+    padding: 125px 0 0 0;
+}
+
+
+
+
+
+/****************************************************************/
+/****************************************************************/
+/****************************************************************/

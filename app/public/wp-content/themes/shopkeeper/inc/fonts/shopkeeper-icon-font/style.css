@@ -1,0 +1,257 @@
+@charset "UTF-8";
+@font-face {
+  font-family: "Shopkeeper-Icon-Font";
+  src: url("fonts/Shopkeeper-Icon-Font.eot?1z3kxr");
+  src: url("fonts/Shopkeeper-Icon-Font.eot?1z3kxr#iefix") format("embedded-opentype"), url("fonts/Shopkeeper-Icon-Font.woff2?1z3kxr") format("woff2"), url("fonts/Shopkeeper-Icon-Font.ttf?1z3kxr") format("truetype"), url("fonts/Shopkeeper-Icon-Font.woff?1z3kxr") format("woff"), url("fonts/Shopkeeper-Icon-Font.svg?1z3kxr#Shopkeeper-Icon-Font") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+[class^="spk-icon-"], [class*=" spk-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "Shopkeeper-Icon-Font" !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.spk-icon-warning:before {
+  content: ""; }
+
+.spk-icon-arrow-left:before {
+  content: ""; }
+
+.spk-icon-arrow-right:before {
+  content: ""; }
+
+.spk-icon-view:before {
+  content: ""; }
+
+.spk-icon-heart-full:before {
+  content: ""; }
+
+.spk-icon-heart:before {
+  content: ""; }
+
+.spk-icon-menu:before {
+  content: ""; }
+
+.spk-icon-search:before {
+  content: ""; }
+
+.spk-icon-cart-shopkeeper:before {
+  content: ""; }
+
+.spk-icon-coupon:before {
+  content: ""; }
+
+.spk-icon-user-account:before {
+  content: ""; }
+
+.spk-icon-spk_error:before {
+  content: ""; }
+
+.spk-icon-spk_check:before {
+  content: ""; }
+
+.spk-icon-diamond:before {
+  content: ""; }
+
+.spk-icon-load-more:before {
+  content: ""; }
+
+.spk-icon-reload:before {
+  content: ""; }
+
+.spk-icon-loader-arrow:before {
+  content: ""; }
+
+.spk-icon-video-player:before {
+  content: ""; }
+
+.spk-icon-Add_2:before {
+  content: ""; }
+
+.spk-icon-Remove_2:before {
+  content: ""; }
+
+.spk-icon-down-small:before {
+  content: ""; }
+
+.spk-icon-left-small:before {
+  content: ""; }
+
+.spk-icon-right-small:before {
+  content: ""; }
+
+.spk-icon-up-small:before {
+  content: ""; }
+
+.spk-icon-close:before {
+  content: ""; }
+
+.spk-icon-menu-filters:before {
+  content: ""; }
+
+.spk-icon-close-thin-large:before {
+  content: ""; }
+
+.spk-icon-down-arrow-thin-large:before {
+  content: ""; }
+
+.spk-icon-left-arrow-thin-large:before {
+  content: ""; }
+
+.spk-icon-right-arrow-thin-large:before {
+  content: ""; }
+
+.spk-icon-up-arrow-thin-large:before {
+  content: ""; }
+
+.spk-icon-naver-line-logo:before {
+  content: ""; }
+
+.spk-icon-icon-arrow-right:before {
+  content: ""; }
+
+.spk-icon-icon-message:before {
+  content: ""; }
+
+.spk-icon-icon-error:before {
+  content: ""; }
+
+.spk-icon-icon-like-it:before {
+  content: ""; }
+
+.spk-icon-wechat:before {
+  content: ""; }
+
+.spk-icon-quote-left:before {
+  content: ""; }
+
+.spk-icon-Document_3:before {
+  content: ""; }
+
+.spk-icon-amazon:before {
+  content: ""; }
+
+.spk-icon-apple:before {
+  content: ""; }
+
+.spk-icon-slack:before {
+  content: ""; }
+
+.spk-icon-tripadvisor:before {
+  content: ""; }
+
+.spk-icon-wordpress:before {
+  content: ""; }
+
+.spk-icon-youtube:before {
+  content: ""; }
+
+.spk-icon-youtube-play:before {
+  content: ""; }
+
+.spk-icon-yelp:before {
+  content: ""; }
+
+.spk-icon-houzz:before {
+  content: ""; }
+
+.spk-icon-google-plus:before {
+  content: ""; }
+
+.spk-icon-google:before {
+  content: ""; }
+
+.spk-icon-github-alt:before {
+  content: ""; }
+
+.spk-icon-foursquare:before {
+  content: ""; }
+
+.spk-icon-facebook-f:before {
+  content: ""; }
+
+.spk-icon-behance:before {
+  content: ""; }
+
+.spk-icon-foursquare2:before {
+  content: ""; }
+
+.spk-icon-sina-weibo:before {
+  content: ""; }
+
+.spk-icon-skype:before {
+  content: ""; }
+
+.spk-icon-soundcloud:before {
+  content: ""; }
+
+.spk-icon-spotify:before {
+  content: ""; }
+
+.spk-icon-swarm:before {
+  content: ""; }
+
+.spk-icon-vine:before {
+  content: ""; }
+
+.spk-icon-twitter:before {
+  content: ""; }
+
+.spk-icon-vk:before {
+  content: ""; }
+
+.spk-icon-instagram:before {
+  content: ""; }
+
+.spk-icon-xing:before {
+  content: ""; }
+
+.spk-icon-yelp2:before {
+  content: ""; }
+
+.spk-icon-dribbble:before {
+  content: ""; }
+
+.spk-icon-flickr:before {
+  content: ""; }
+
+.spk-icon-github:before {
+  content: ""; }
+
+.spk-icon-google2:before {
+  content: ""; }
+
+.spk-icon-lastfm:before {
+  content: ""; }
+
+.spk-icon-linkedin:before {
+  content: ""; }
+
+.spk-icon-pinterest:before {
+  content: ""; }
+
+.spk-icon-stumbleupon:before {
+  content: ""; }
+
+.spk-icon-tumblr:before {
+  content: ""; }
+
+.spk-icon-rss:before {
+  content: ""; }
+
+.spk-icon-vimeo:before {
+  content: ""; }
+
+.spk-icon-youtube2:before {
+  content: ""; }
+
+.spk-icon-whatsapp:before {
+  content: ""; }

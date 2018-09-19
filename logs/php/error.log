@@ -1,0 +1,22 @@
+[19-Sep-2018 04:21:46 UTC] PHP Warning:  include(): Filename cannot be empty in /app/public/wp-content/themes/shopkeeper/header.php on line 139
+[19-Sep-2018 04:21:46 UTC] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/shopkeeper/header.php on line 139
+[19-Sep-2018 04:21:47 UTC] PHP Warning:  include(): Filename cannot be empty in /app/public/wp-content/themes/shopkeeper/header.php on line 139
+[19-Sep-2018 04:21:47 UTC] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/shopkeeper/header.php on line 139
+[19-Sep-2018 04:21:47 UTC] PHP Warning:  include(): Filename cannot be empty in /app/public/wp-content/themes/shopkeeper/header.php on line 139
+[19-Sep-2018 04:21:47 UTC] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/shopkeeper/header.php on line 139
+[19-Sep-2018 04:21:47 UTC] PHP Warning:  include(): Filename cannot be empty in /app/public/wp-content/themes/shopkeeper/header.php on line 139
+[19-Sep-2018 04:21:47 UTC] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/shopkeeper/header.php on line 139
+[19-Sep-2018 04:21:48 UTC] PHP Warning:  include(): Filename cannot be empty in /app/public/wp-content/themes/shopkeeper/header.php on line 139
+[19-Sep-2018 04:21:48 UTC] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/shopkeeper/header.php on line 139
+[19-Sep-2018 04:21:48 UTC] PHP Warning:  include(): Filename cannot be empty in /app/public/wp-content/themes/shopkeeper/header.php on line 139
+[19-Sep-2018 04:21:48 UTC] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/shopkeeper/header.php on line 139
+[19-Sep-2018 04:21:48 UTC] PHP Warning:  include(): Filename cannot be empty in /app/public/wp-content/themes/shopkeeper/header.php on line 139
+[19-Sep-2018 04:21:48 UTC] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/shopkeeper/header.php on line 139
+[19-Sep-2018 04:21:48 UTC] PHP Warning:  include(): Filename cannot be empty in /app/public/wp-content/themes/shopkeeper/header.php on line 139
+[19-Sep-2018 04:21:48 UTC] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in /app/public/wp-content/themes/shopkeeper/header.php on line 139
+[19-Sep-2018 15:43:16 UTC] PHP Parse error:  syntax error, unexpected '$parent_id' (T_VARIABLE), expecting ',' or ';' in /app/public/wp-content/themes/shopkeeper/woocommerce/archive-product.php on line 80
+[19-Sep-2018 15:43:29 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/shopkeeper/woocommerce/archive-product.php on line 80
+[19-Sep-2018 15:43:29 UTC] PHP Warning:  A non-numeric value encountered in /app/public/wp-content/themes/shopkeeper/woocommerce/archive-product.php on line 80
+[19-Sep-2018 16:47:15 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /app/public/wp-content/themes/shopkeeper/woocommerce/archive-product.php on line 13
+[19-Sep-2018 16:48:37 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /app/public/wp-content/themes/shopkeeper/woocommerce/archive-product.php on line 13
+[19-Sep-2018 16:48:58 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /app/public/wp-content/themes/shopkeeper/woocommerce/archive-product.php on line 11
