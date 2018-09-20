@@ -140,7 +140,7 @@
                         <?php elseif ( $shopkeeper_theme_options['main_header_layout'] == "2" || $shopkeeper_theme_options['main_header_layout'] == "22" ) : ?>
                         	<?php include(locate_template('header-centered-2menus.php')); ?>
                         <?php elseif ( $shopkeeper_theme_options['main_header_layout'] == "3" ) : ?>
-                        	<?php include(locate_template('header-centered-menu-under.php')); ?>
+							<?php include(locate_template('header-centered-menu-under.php')); ?>
 						<?php endif; ?>
                         
                     <?php else : ?>

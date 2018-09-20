@@ -52,11 +52,7 @@
                 <?php get_template_part( 'content', 'page' ); ?>
                     
                 <?php   if (function_exists('is_cart') && is_cart()) : ?>
-                <?php else: ?>    
-                <div class="clearfix"></div>
-                <footer class="entry-meta">   
-                    <?php // edit_post_link( __( 'Edit', 'shopkeeper' ), '<div class="edit-link"><i class="fa fa-pencil"></i> ', '</div>' );  ?>
-                </footer><!-- .entry-meta -->
+                
                 <?php endif; ?>
 
                 <?php

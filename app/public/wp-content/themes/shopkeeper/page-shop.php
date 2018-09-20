@@ -27,13 +27,12 @@ Template Name: Shop Template
 	
 ?>
 
-<?php get_header(); ?>
 
 	<!--Body Container-->
 <div class="main--container <?php echo $shop_has_sidebar ? ' shop-has-sidebar':'';?>">
 
 <!--Header/Nav-->
-<?php get_header('main'); ?>
+<?php get_header('welcome'); ?>
 
 
 <div class="travel__header header-bg">

@@ -121,7 +121,7 @@ ob_end_clean();
 		<?php if ($category_header_src != "") : ?>
 		
 		<div <?php echo $category_header_parallax_ratio; ?>
-				class="shop_header_bkg <?php echo $category_header_parallax_class; ?>" style="background-image:url(<?php echo esc_url($category_header_src); ?>)">
+				class="shop_header_bkg <?php echo $category_header_parallax_class; ?>" style="background-image:url(/wp-content/uploads/2018/08/test.jpg)">
 		</div>
 	
 		<?php endif; ?>
@@ -134,7 +134,6 @@ ob_end_clean();
 	
 		<?php endif; ?>
 	
-		<div class="shop_header_overlay"></div>
 	
 		<div class="row">
 			<div class="large-12 large-centered columns">

@@ -86,7 +86,7 @@ input.wpcf7-submit {
     font-family: Etna;
 }
 .travel__header {
-    background-image: url('/wp-content/uploads/2018/08/Florida Pro Surf Hero_Travel.jpg')
+    background-image: url('/wp-content/uploads/2018/09/SCT18-323_Florida-Pro-Surf-Hero_Sponsors2.jpg')
 }
 @media (max-width:415px) {
     .travel__header {
@@ -322,19 +322,62 @@ input::placeholder {
     margin: 30px auto;
     font-size: 30px !important;
 }
-.cart button.add_to_cart_button {
-    background: url("/wp-content/2018/11/surf-league-bg-mobile.png") no-repeat scroll 0 0 !important;
-    cursor: pointer;
+.woocommerce div.product form.cart .button {
+    background: url("/wp-content/uploads/2018/09/buttonBrush.png")!important;
+    background-size: cover !important;
+    background-position: center;
+    background-repeat: no-repeat !important;    cursor: pointer;
     font-weight: bold;
-    height: 20px;
+    height: 46px;
     padding-bottom: 2px;
-    width: 75px;
+}
+.login-register-container form.login button, .login-register-container form.login button:hover {
+    background: url("/wp-content/uploads/2018/09/buttonBrush.png")!important;
+    background-size: contain !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    height: 46px;
+    width: 100%;
+    padding: 0 !important;
+    cursor: pointer;
 }
 .product_layout_classic .product_content_wrapper {
     margin-top: 0;
 }
 .content-area {
     padding: 125px 0 0 0;
+}
+.mid-logo {
+    width: 150px;
+}
+.welcome.site-header-wrapper {
+    display: flex;
+    justify-content: center;
+}
+.welcome.main-navigation {
+    margin: 0;
+}
+.welcome.site-tools {
+    margin: 0;
+}
+.welcome.site-tools li {
+    margin-left: 20px;
+}
+.top-headers-wrapper-copy {
+    top: 32px;
+    position: absolute;
+    width: 100%;
+    z-index: 8888;
+    overflow: visible !important;
+}
+.row .columns div.entry-content {
+    margin: 0 auto;
+}
+#page_wrapper.sticky_header .content-area, #page_wrapper.transparent_header .content-area {
+    margin-top: 0!important;
+}
+.shop_header.with_featured_img .shop_header_bkg {
+    background-position: bottom !important;
 }
 
 

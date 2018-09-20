@@ -128,3 +128,9 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 
 	</div><!-- .large-6-->
 </div><!-- .rows-->
+</div>
+</div>
+</div>
+</div>
+<?php get_footer('main'); ?>
+<?php get_footer(); ?>

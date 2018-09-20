@@ -1,0 +1,26 @@
+2018-09-19T20:59:07+00:00 CRITICAL Uncaught Error: Call to undefined function get_menu() in /app/public/wp-content/themes/shopkeeper/page-shop.php:35
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown
+
+2018-09-19T20:59:12+00:00 CRITICAL Uncaught Error: Call to undefined function get_() in /app/public/wp-content/themes/shopkeeper/page-shop.php:35
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown
+
+2018-09-19T20:59:14+00:00 CRITICAL Uncaught Error: Call to undefined function get_() in /app/public/wp-content/themes/shopkeeper/page-shop.php:35
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(74): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown
+
+2018-09-19T21:39:15+00:00 CRITICAL Cannot redeclare getbowtied_hex2rgb() (previously declared in /app/public/wp-content/themes/shopkeeper/inc/custom-styles/custom-styles.php:191)
+
